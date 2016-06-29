@@ -5,10 +5,10 @@
 contact: c.hahn@hull.ac.uk
 
 1. Introducution
-  1.1 Reproducible science
-  1.2 command line basics
-  1.3 Docker
-  1.4 writing/running scripts
+  1. Reproducible science
+  2. command line basics
+  3. Docker
+  4. writing/running scripts
 2. Manipulating FASTQ data
   1. FASTQ basics
   2. FASTQ file manipulation on the command line
@@ -46,6 +46,8 @@ contact: c.hahn@hull.ac.uk
   1. Denovo
   2. Reference genome based
 9. metabarcoding
+  1. A basic BLAST search
+  2. MEGAN
 10. Structural genome annotation
 11. Functional genome annotation
 
