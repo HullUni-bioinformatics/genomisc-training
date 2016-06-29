@@ -63,4 +63,18 @@ contact: c.hahn@hull.ac.uk
 
 ## Introduction
 
-blalba
+## Manipulating FASTQ data
+
+## Read mapping
+
+## RADseq data
+
+## SNP calling
+
+## SNP annotation
+
+## Genome assembly
+
+## RNAseq data
+
+## metabarcoding
