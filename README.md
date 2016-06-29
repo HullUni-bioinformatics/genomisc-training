@@ -6,9 +6,10 @@ contact: c.hahn@hull.ac.uk
 
 1. [Introduction](https://github.com/HullUni-bioinformatics/genomisc-training#introduction)
   1. Reproducible science
-  2. command line basics
+  2. The command line 
+    1. Basics
+    2. writing/running scripts
   3. Docker
-  4. writing/running scripts
   5. Using HPC
     1. Connecting
     2. Job submission
@@ -16,7 +17,7 @@ contact: c.hahn@hull.ac.uk
       2. PBS
 2. [Manipulating FASTQ data](https://github.com/HullUni-bioinformatics/genomisc-training#manipulating-fastq-data)
   1. FASTQ basics
-  2. FASTQ file manipulation on the command line
+  2. FASTQ file manipulation using command line skills
   3. FASTQ trimming
     1. Fastx-toolkit
     2. Trimmomatic
@@ -69,6 +70,11 @@ contact: c.hahn@hull.ac.uk
 ## Introduction
 
 ## Manipulating FASTQ data
+
+# FASTQ file manipulation using command line skills
+
+The UNIX command line provides highly efficient, simple and incredibly powerful tools for text file manipulation. Much of the NGS data you will be processing are nothing more than text files. Proficiency with some of these basic tools will get you a long way (you may not need anything else), so I have prepared a number of simple exercises that should help you develop your command line skills, specifically in the context of FASTQ data manipulation. It will hopefully also help you to get a feel for the kind of data that you will be working with. Get started [here]().
+
 
 ## Read mapping
 
