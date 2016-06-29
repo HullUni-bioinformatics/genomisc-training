@@ -9,7 +9,12 @@ contact: c.hahn@hull.ac.uk
   2. command line basics
   3. Docker
   4. writing/running scripts
-2. Manipulating FASTQ data
+  5. Using HPC
+    1. Connecting
+    2. Job submission
+      1. SLURM
+      2. PBS
+2. [Manipulating FASTQ data](https://github.com/HullUni-bioinformatics/genomisc-training#manipulating-fastq-data)
   1. FASTQ basics
   2. FASTQ file manipulation on the command line
   3. FASTQ trimming
@@ -22,17 +27,17 @@ contact: c.hahn@hull.ac.uk
     1. FLASh
     2. Pear
   6. Demultiplexing
-3. Read mapping
+3. [Read mapping](https://github.com/HullUni-bioinformatics/genomisc-training#read-mapping)
   1. BWA
   2. Bowtie
-4. RADseq data
+4. [RADseq data](https://github.com/HullUni-bioinformatics/genomisc-training#radseq-data)
   1. Stacks
   2. Pyrad
-5. SNP calling
+5. [SNP calling](https://github.com/HullUni-bioinformatics/genomisc-training#snp-calling)
   1. Freebayes
-6. SNP annotation
+6. [SNP annotation](https://github.com/HullUni-bioinformatics/genomisc-training#snp-annotation)
   1. SNPeff
-7. Genome assembly
+7. [Genome assembly](https://github.com/HullUni-bioinformatics/genomisc-training#genome-assembly)
   1. Illumina data
     1. Velvet
     2. Spades
@@ -52,10 +57,10 @@ contact: c.hahn@hull.ac.uk
     1. Basic stats
     2. Completeness
     3. Contamination
-8. RNAseq data
+8. [RNAseq data](https://github.com/HullUni-bioinformatics/genomisc-training#rnaseq-data)
   1. Denovo
   2. Reference genome based
-9. metabarcoding
+9. [metabarcoding](https://github.com/HullUni-bioinformatics/genomisc-training#metabarcoding)
   1. A basic BLAST search
   2. MEGAN
 10. Structural genome annotation
