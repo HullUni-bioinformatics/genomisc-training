@@ -4,7 +4,7 @@
 
 contact: c.hahn@hull.ac.uk
 
-1. Introduction
+1. [Introduction](https://github.com/HullUni-bioinformatics/genomisc-training#introduction)
   1. Reproducible science
   2. command line basics
   3. Docker
