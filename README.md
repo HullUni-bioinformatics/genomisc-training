@@ -4,7 +4,7 @@
 
 contact: c.hahn@hull.ac.uk
 
-1. Introducution
+1. Introduction
   1. Reproducible science
   2. command line basics
   3. Docker
@@ -38,6 +38,16 @@ contact: c.hahn@hull.ac.uk
     2. Spades
     3. Celera
   2. PacBio
+    1. CANU
+    2. FALCON
+    3. MIRA
+  3. Hybrid
+    1. MIRA
+    2. Spades
+    3. Celera
+  4. Metaassembly, Gapfilling and polishing
+    1. PBjelly
+    2. quickmerge
   3. Assembly evaluation
     1. Basic stats
     2. Completeness
@@ -51,4 +61,6 @@ contact: c.hahn@hull.ac.uk
 10. Structural genome annotation
 11. Functional genome annotation
 
+## Introduction
 
+blalba
