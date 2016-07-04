@@ -2,6 +2,8 @@
 
 ## Miscellaneous materials (tutorials, exercises, testdata) to develop essential 'survival'-skills in bioinformatics.
 
+git clone..
+
 contact: c.hahn@hull.ac.uk
 
 1. [Introduction](https://github.com/HullUni-bioinformatics/genomisc-training#introduction)
